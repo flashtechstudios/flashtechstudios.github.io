@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-I am Devesh Sharma, I love to do music, code, write poems and stories and have fun!
+I am themoonmeetsthesun, I love to do music, code, write poems and stories and have fun!
 
 My projects:<br>
 - [ubudroid](https://themoonmeetsthesun.github.io/ubudroid/)<br>
