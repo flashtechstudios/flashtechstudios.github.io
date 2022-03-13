@@ -1,5 +1,5 @@
 # Hello there! 👋
-
+I am working on turning this shit website into something good LOLOLOLOLOLOL
 I am themoonmeetsthesun, I love to do music, code, write poems and stories and have fun!
 
 My projects:<br>
