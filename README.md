@@ -1,6 +1,6 @@
 # Hello there! 👋
 I am themoonmeetsthesun, I love to do music, code, write poems and stories and have fun!
-I have recently been dabbling in technology and I love it. So sit back and check out my projects!<br>
+I have recently been dabbling in technology and I love it.<br>
 
 My projects:<br>
 - [ubudroid](https://github.com/themoonmeetsthesun/ubudroid)<br>
