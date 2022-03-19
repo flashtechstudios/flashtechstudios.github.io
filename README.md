@@ -3,6 +3,7 @@ I am themoonmeetsthesun, I love to do music, code, write poems and stories and h
 I have recently been dabbling in technology and I love it.<br>
 
 My projects:<br>
+- [windows-updater](https://github.com/themoonmeetsthesun/windows-updater)
 - [ubudroid](https://github.com/themoonmeetsthesun/ubudroid)<br>
 - [KDE Cursors for Windows](https://themoonmeetsthesun.github.io/Breeze-Cursors-for-Windows/)<br>
 - [termux-updater](https://themoonmeetsthesun.github.io/termux-updater/)<br>
