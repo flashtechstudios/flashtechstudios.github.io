@@ -1,8 +1,8 @@
 Hello, this is themoonmeetsthesun! <br>
 I am: <br>
 - HTML guy
-- Origami guy
-I am into music too!
+- Origami guy 
+- I am into music too!
 
 Resources: <br>
 [My Discord server](https://discord.gg/r3F5S9hAMr)<br>
