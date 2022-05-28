@@ -1,4 +1,4 @@
-Hello, this is themoonmeetsthesun! <br>
+Hello, this is elixir! <br>
 I am: <br>
 - HTML guy
 - Origami guy 
