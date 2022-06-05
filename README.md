@@ -5,7 +5,7 @@ I am: <br>
 - I am into music too!
 
 My main machine specs:
-             ...-:::::-...                 [username]@[username]-Inspiron-3537 
+```             ...-:::::-...                 [username]@[username]-Inspiron-3537 
           .-MMMMMMMMMMMMMMM-.              --------------------------- 
       .-MMMM`..-:::::::-..`MMMM-.          OS: Linux Mint 20.3 x86_64 
     .:MMMM.:MMMMMMMMMMMMMMM:.MMMM:.        Host: Inspiron 3537 A12 
@@ -24,7 +24,7 @@ My main machine specs:
        '.-MMMM``--:::::--``MMMM-.'         GPU: Intel Haswell-ULT 
             '-MMMMMMMMMMMMM-'              GPU: AMD ATI Radeon HD 8670A/8670M/8690M / R5 M330 / M430 / Radeon 520 Mobile 
                ``-:::::-``                 Memory: 1816MiB / 7845MiB
-               
+```               
 
 Resources: <br>
 [My Discord server](https://discord.gg/r3F5S9hAMr)<br>
