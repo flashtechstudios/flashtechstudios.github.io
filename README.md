@@ -1,4 +1,4 @@
-Hello, this is elixir! <br>
+Hello, this is flash! <br>
 I am: <br>
 - HTML guy
 - Origami guy 
