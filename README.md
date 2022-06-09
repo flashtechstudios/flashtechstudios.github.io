@@ -6,7 +6,7 @@ I am: <br>
 
 My main machine specs:
 ```
- ___________     devesh@devesh-Inspiron-3537
+ ___________     [username]@[username]-Inspiron-3537
 |_          \    os     Linux Mint 20.3
   | | _____ |    host   Inspiron 3537 A12
   | | | | | |    kernel 5.4.0-117-generic
