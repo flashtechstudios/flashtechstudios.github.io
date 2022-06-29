@@ -6,7 +6,7 @@ I am: <br>
 
 My main machine specs:
 ```
-        ,'''''.   dsharma@fedora
+        ,'''''. 
        |   ,.  |  os     Fedora Linux 36 (KDE Plasma)
        |  |  '_'  host   Inspiron 3537 A12
   ,....|  |..     kernel 5.18.6-200.fc36.x86_64
